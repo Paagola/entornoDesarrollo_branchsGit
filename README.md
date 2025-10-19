@@ -55,3 +55,15 @@ Este es el resultado de todos los niveles de prácticas de ramas en Git.
 ![text](img/remote1.1.png)
 
 ![text](img/remote1.2.png)
+
+![text](img/remote1.3.png)
+
+![text](img/remote1.4.png)
+
+![text](img/remote1.5.png)
+
+![text](img/remote1.6.png)
+
+![text](img/remote1.7.png)
+
+![text](img/remote1.8.png)
